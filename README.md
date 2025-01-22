@@ -22,3 +22,6 @@ Em um cenário onde erros diagnósticos podem comprometer a vida dos pacientes e
 **Nomenclatura de artefatos de requisitos:**  
 Prefixo `req` seguido de o número identificador do requisito e da extensão de arquivo `.md`  
 Por exemplo, para o requisito de número 20, seu arquivo contendo a descrição do requisito será nomeado como `req20.md`
+
+**Organização de artefatos no Drive:**
+[Drive com artefatos](https://drive.google.com/drive/folders/1nE3zBhoeIrcQkPWDhv-R7xMRW-GNzKYW?usp=sharing)
