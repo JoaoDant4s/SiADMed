@@ -9,3 +9,16 @@ Os dados para o treinamento da IA serão resultado de exames laboratórias (em t
 
 ## Motivação e Contexto
 Em um cenário onde erros diagnósticos podem comprometer a vida dos pacientes e decisões médicas precisam ser rápidas e fundamentadas, o SiAdMed surge como uma solução essencial para transformar dados médicos complexos em informações úteis e acionáveis.
+
+
+## Padrões para desenvolvimento
+
+**Diretórios:**
+- codificacao: Artefatos de código do programa
+- documentacao/requisitos: Artefatos que descrevem as funcionalidades do programa
+
+  O diretório *requisitos* contém sub-pastas nomeadas como "funcionais" para os requisitos funcionais, "qualidade" para os requisitos de qualidade e "legais" para os requisitos legais.
+
+**Nomenclatura de artefatos de requisitos:**  
+Prefixo `req` seguido de o número identificador do requisito e da extensão de arquivo `.md`  
+Por exemplo, para o requisito de número 20, seu arquivo contendo a descrição do requisito será nomeado como `req20.md`
