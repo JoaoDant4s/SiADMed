@@ -1,7 +1,9 @@
 # RF02 - Processamento e Análise de Dados Médicos com IA
 
 **COMO** usuário do sistema
+
 **QUERO** que os dados médicos sejam processados e analisados utilizando IA
+
 **PARA** gerar uma lista de diagnósticos prováveis com probabilidade associada.
 
 ## Fontes de Dados:
