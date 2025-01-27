@@ -1,22 +1,43 @@
-# RF05: O sistema deve permitir o cadastro de usuários com diferentes níveis de acesso.
-  - Tipos de usuários e dados necessários:
-    - Paciente:
-      - Nome completo.
-      - Data de nascimento.
-      - CPF.
-      - E-mail e telefone.
-      - Endereço completo.
-    - Médico:
-      - Nome completo.
-      - CRM (validado com base no estado de registro).
-      - Especialidade médica.
-      - CPF.
-      - E-mail e telefone.
-    - Administrador:
-      - Nome completo.
-      - CPF.
-      - E-mail e telefone.
-  - Níveis de acesso:
-    - Paciente: acesso apenas a seus próprios dados.
-    - Médico: acesso aos pacientes cadastrados sob sua responsabilidade.
-    - Administrador: acesso total ao sistema.
+# RF05 - Cadastro de Usuários com Níveis de Acesso
+
+**COMO** administrador do sistema  
+**QUERO** cadastrar usuários com diferentes níveis de acesso  
+**PARA** garantir o controle de permissões e a segurança do sistema.
+
+## Dados e Validações
+
+### Tipos de Usuários e Dados Necessários
+
+#### **Paciente**:
+- Nome completo (Obrigatório).
+- Data de nascimento (Obrigatório).
+- CPF (Validação: formato válido e único).
+- E-mail e telefone (Obrigatórios).
+- Endereço completo (Obrigatório).
+
+#### **Médico**:
+- Nome completo (Obrigatório).
+- CRM (Validação: formato válido com base no estado de registro).
+- Especialidade médica (Obrigatório).
+- CPF, e-mail e telefone (Obrigatórios).
+
+#### **Administrador**:
+- Nome completo (Obrigatório).
+- CPF, e-mail e telefone (Obrigatórios).
+
+### Níveis de Acesso:
+- **Paciente**: Acesso apenas a seus próprios dados.
+- **Médico**: Acesso aos pacientes sob sua responsabilidade.
+- **Administrador**: Acesso total ao sistema.
+
+## Critérios de Aceitação
+
+### Cadastro bem-sucedido:
+- Quando todos os campos obrigatórios forem preenchidos corretamente, o usuário deve ser cadastrado.
+
+### Validação de CPF:
+- Se o CPF já estiver em uso, o sistema deve exibir uma mensagem de erro:  
+  "O CPF informado já está cadastrado no sistema."
+
+### Permissões de Acesso:
+- Cada usuário deve ter acesso limitado de acordo com seu nível de permissão.
