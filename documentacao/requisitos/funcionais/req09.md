@@ -23,3 +23,5 @@
 ### Mensagem de erro:
 - Caso o histórico esteja vazio, o sistema deve exibir:  
   "Nenhuma consulta encontrada no histórico."
+  
+![image](https://github.com/user-attachments/assets/99e151d4-4c64-42ef-84aa-da2773a6e690)
