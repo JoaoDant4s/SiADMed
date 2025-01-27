@@ -17,3 +17,5 @@
   - Adição de comentários:
     - O sistema deve permitir ao médico salvar comentários para cada decisão tomada.
 
+
+![image](https://github.com/user-attachments/assets/8c139368-8ace-4484-aa1d-f50fe5f8ca08)
