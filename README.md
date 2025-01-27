@@ -25,3 +25,15 @@ Por exemplo, para o requisito de número 20, seu arquivo contendo a descrição 
 
 **Organização de artefatos no Drive:**
 [Drive com artefatos](https://drive.google.com/drive/folders/1nE3zBhoeIrcQkPWDhv-R7xMRW-GNzKYW?usp=sharing)
+
+## Exemplos de UI
+![image](https://github.com/user-attachments/assets/2b9a92b0-89e3-4c3d-afb4-97597c7db243)
+![image](https://github.com/user-attachments/assets/050d8c95-ab93-4fcb-8c8c-26cd8b1db73b)
+![image](https://github.com/user-attachments/assets/d0c67aa2-7e0c-425e-8544-626186d16f8b)
+![image](https://github.com/user-attachments/assets/2e3b5fb0-dac4-4d81-969e-bf5ac1d7a855)
+
+
+
+
+
+
