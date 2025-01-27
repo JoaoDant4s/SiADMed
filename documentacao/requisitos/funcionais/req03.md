@@ -1,6 +1,19 @@
-# RF03: O sistema deve fornecer uma interface para que médicos possam avaliar e validar as recomendações da IA.
+# RF03 - Interface para Avaliação Médica das Recomendações da IA
+**COMO** médico do sistema
 
-- Funcionalidades da interface:
-  - Exibir o diagnóstico provável da IA.
+**QUERO** avaliar e validar as recomendações geradas pela IA
+
+**PARA** garantir que o diagnóstico e tratamento sejam precisos.
+
+## Funcionalidades da Interface:
+  - Exibir o diagnóstico provável gerado pela IA.
   - Permitir ao médico marcar cada sugestão como "Aprovada", "Rejeitada" ou "Revisar".
   - Permitir ao médico adicionar comentários sobre cada decisão.
+## Critérios de Aceitação
+  - Exibição das sugestões da IA:
+    - O sistema deve listar todos os diagnósticos prováveis com suas respectivas probabilidades.
+  - Interatividade:
+    - O médico deve poder aprovar, rejeitar ou marcar para revisão cada diagnóstico individualmente.
+  - Adição de comentários:
+    - O sistema deve permitir ao médico salvar comentários para cada decisão tomada.
+
