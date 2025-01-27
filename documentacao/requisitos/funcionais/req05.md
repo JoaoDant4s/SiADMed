@@ -1,0 +1,22 @@
+# RF05: O sistema deve permitir o cadastro de usuários com diferentes níveis de acesso.
+  - Tipos de usuários e dados necessários:
+    - Paciente:
+      - Nome completo.
+      - Data de nascimento.
+      - CPF.
+      - E-mail e telefone.
+      - Endereço completo.
+    - Médico:
+      - Nome completo.
+      - CRM (validado com base no estado de registro).
+      - Especialidade médica.
+      - CPF.
+      - E-mail e telefone.
+    - Administrador:
+      - Nome completo.
+      - CPF.
+      - E-mail e telefone.
+  - Níveis de acesso:
+    - Paciente: acesso apenas a seus próprios dados.
+    - Médico: acesso aos pacientes cadastrados sob sua responsabilidade.
+    - Administrador: acesso total ao sistema.
