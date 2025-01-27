@@ -25,3 +25,6 @@
 ## Critérios de Aceitação
   - Todos os campos obrigatórios devem ser preenchidos antes de salvar.
   - Exibir mensagem de erro caso algum campo obrigatório esteja vazio: **"Preencha todos os campos obrigatórios antes de salvar os dados médicos."**
+
+## Representação gráfica
+![image](https://github.com/user-attachments/assets/aec24fe0-b3b1-48f7-bdb3-939a512a9fd3)
