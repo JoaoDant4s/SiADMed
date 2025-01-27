@@ -41,3 +41,6 @@
 
 ### Permissões de Acesso:
 - Cada usuário deve ter acesso limitado de acordo com seu nível de permissão.
+
+  ![image](https://github.com/user-attachments/assets/e62bc2fe-5e10-4ef4-bd28-25d4126d18e6)
+
