@@ -1,0 +1,5 @@
+Entrevista: ChatGPT
+
+Arqueologia de Sistemas: Consultamos 2 sites de sistemas de gestão de dados médicos.
+      iClinic: https://app.iclinic.com.br/
+      FeeGowClinic: https://feegowclinic.com.br/
