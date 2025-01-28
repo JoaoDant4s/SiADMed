@@ -24,7 +24,7 @@ Prefixo `req` seguido de o número identificador do requisito e da extensão de 
 Por exemplo, para o requisito de número 20, seu arquivo contendo a descrição do requisito será nomeado como `req20.md`
 
 **Organização de artefatos no Drive:**
-[Drive com artefatos](https://drive.google.com/drive/folders/1nE3zBhoeIrcQkPWDhv-R7xMRW-GNzKYW?usp=sharing)
+[Drive com artefatos](documentacao/requisitos/artefatos-eng-req.txt)
 
 ## Exemplos de UI
 ![image](https://github.com/user-attachments/assets/2b9a92b0-89e3-4c3d-afb4-97597c7db243)
